@@ -2,6 +2,12 @@
 
 All notable changes to this site. Dates are ET.
 
+## 2026-11-23 — staged Gumroad buy buttons
+
+### Changed
+- Product cards now have live "Buy on Gumroad" buttons (Cash Flow $14, Job-Cost $14, Bundle $24) pointing at ledgerwright.gumroad.com. The "coming soon" note, disabled placeholder spans, and "email me when ready" links are removed. JSON-LD offers include each product `url`. Prices are unchanged.
+- This change is staged on a branch. It is not public until the branch is merged to `main` (GitHub Pages deploys from `main`).
+
 ## 2026-11-23 — v1.0.1 CI fix
 
 ### Fixed
